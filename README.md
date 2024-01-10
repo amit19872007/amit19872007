@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitgajkal&label=Profile%20views&color=0e75b6&style=flat" alt="amitgajkal" /> </p>
 
 
-- 🌱 I’m currently learning **Power BI, SQL, Python, Excel**
+- 🌱 I’m currently employing **Power BI, SQL, Python, Excel**
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/amitgajkal](https://www.novypro.com/profile_projects/amitgajkal) 
 - 📫 How to reach me **amitgajkal@gmail.com**
 - ⚡ Fun fact **A Business Consultant Turned Data Analyst**
