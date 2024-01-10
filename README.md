@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amit Gajkal</h1>
 <h3 align="center">Transforming complex data into actionable insights for informed decisions</h3>
+<img align="right" width="400" src="https://github.com/amitgajkal/Business_Insights_360/blob/main/Resources/analyst1.gif" alt="amitgajkal" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit19872007&label=Profile%20views&color=0e75b6&style=flat" alt="amit19872007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitgajkal&label=Profile%20views&color=0e75b6&style=flat" alt="amitgajkal" /> </p>
+
 
 - 🌱 I’m currently learning **Power BI, SQL, Python, Excel**
-
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/amitgajkal](https://www.novypro.com/profile_projects/amitgajkal)
-
+- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/amitgajkal](https://www.novypro.com/profile_projects/amitgajkal) 
 - 📫 How to reach me **amitgajkal@gmail.com**
-
 - ⚡ Fun fact **A Business Consultant Turned Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
